@@ -23,7 +23,7 @@ This project represents an important step in my programming education and demons
 
 ## Note
 
-⚠️ **File Status**: Some project files are currently missing and their locations are unknown. In the future, implementing version control best practices and regular backups will help prevent similar file loss.
+⚠️ **File Status**: Some project files are currently missing and their locations are unknown (My brother uses the same laptop as me and might have deleted some things). In the future, implementing version control and regular backups will help prevent similar file loss.
 
 ---
 
